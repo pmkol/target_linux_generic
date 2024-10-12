@@ -6,7 +6,7 @@
  #define UTS_MACHINE		"${UTS_MACHINE}"
 -#define LINUX_COMPILE_BY	"${LINUX_COMPILE_BY}"
 -#define LINUX_COMPILE_HOST	"${LINUX_COMPILE_HOST}"
-+#define LINUX_COMPILE_BY	"admin"
-+#define LINUX_COMPILE_HOST	"cooluc.com"
++#define LINUX_COMPILE_BY	"openwrt-actions"
++#define LINUX_COMPILE_HOST	"github.com"
  #define LINUX_COMPILER		"${CC_VERSION}, ${LD_VERSION}"
  EOF
